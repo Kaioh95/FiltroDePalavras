@@ -18,4 +18,4 @@ Para rodar o projeto localcamente, realize o clone e execute as seguintes instru
  npm run dev
 ```
 
-para acessar a aplicação em serviço cloud, [clique aqui!]()
+para acessar a aplicação em serviço cloud, [clique aqui!](https://filtro-de-palavras.vercel.app/)
